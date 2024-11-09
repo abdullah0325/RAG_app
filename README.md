@@ -1,0 +1,1 @@
+This Streamlit app, "Abdullah GPT", enables users to chat with content from uploaded PDFs, Word docs, blogs, or YouTube transcripts. It extracts and processes text, divides it into chunks, and stores embeddings in a FAISS vector store for efficient retrieval. Powered by OpenAI's GPT-3.5-turbo, the chatbot answers questions about the content interactively.
